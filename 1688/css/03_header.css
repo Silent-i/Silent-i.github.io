@@ -427,13 +427,13 @@ header>.head_list>.head_list_left>li::before {
 }
 
 /* 每个页面改nth-of-type序号 */
-header>.head_list>.head_list_left>li:nth-of-type(1)>a {
+/*header>.head_list>.head_list_left>li:nth-of-type(1)>a {
 	color: #0088F0;
-}
+}*/
 
-header>.head_list>.head_list_left>li:nth-of-type(1)::before {
+/*header>.head_list>.head_list_left>li:nth-of-type(1)::before {
 	background-image: url(../img/03_head_menu.png);
-}
+}*/
 
 header>.head_list>.head_list_left>li>a {
 	font-size: 17px;
